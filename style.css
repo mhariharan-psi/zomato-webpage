@@ -4,3 +4,9 @@
   min-height: 400px;
   padding: 60px 20px;
 }
+
+/* Step 3.5: Card images - consistent height */
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
